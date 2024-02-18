@@ -1,5 +1,5 @@
 import express from 'express'
-
+//ONLY ON  1CREATEROUTING
 const app = express()
 const port = 5050
 
